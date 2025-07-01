@@ -69,9 +69,9 @@ This project is licensed under the MIT License. / Este projeto está licenciado 
 ---
 
 ## 👨‍💻 About the Developer / Sobre o Desenvolvedor
-Developed by [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Check out more projects on [GitHub](https://github.com/Gabriel-H-Rocha).
+Developed by [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Check out more projects on [GitHub](https://github.com/Gabriel-H-Alves).
 
-Desenvolvido por [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Veja mais projetos no [GitHub](https://github.com/Gabriel-H-Rocha).
+Desenvolvido por [Gabriel Henrique](https://www.linkedin.com/in/gabriel-henrique-a84429250/). Veja mais projetos no [GitHub](https://github.com/Gabriel-H-Alves).
 
 ---
 
